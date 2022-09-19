@@ -4,4 +4,4 @@ This is a file
 Adding a new line in Branch B
 
 
-Now I am in Branch B
+Now I am in Branch B: Updating the same line in main: Updating the same line in main
