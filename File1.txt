@@ -9,3 +9,4 @@ Now I am in Branch B : added in Branch B
 
 new change
 change from the GUI
+2nd change
