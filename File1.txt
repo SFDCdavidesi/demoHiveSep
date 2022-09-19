@@ -2,3 +2,6 @@ This is a file
 
 
 Adding a new line in Branch B
+
+
+Now I am in Branch B
