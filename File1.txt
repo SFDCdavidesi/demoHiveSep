@@ -5,3 +5,6 @@ Adding a new line in Branch B
 
 
 Now I am in Branch B : added in Branch B
+
+
+new change
